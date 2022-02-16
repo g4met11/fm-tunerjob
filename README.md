@@ -1,8 +1,13 @@
 # fm-tunerjob
 
-Dette er et  tuner job lavet til QBCore det er  lavet til den nyeste verison af qb-target, men ved ikke om det virker til den man bruger på Fivem.dks filer.
+Dette er et  tuner job lavet til QBCore.
+
 Det map jeg bruger er dette:
 https://www.youtube.com/watch?v=a_Yt4Lv41pQ&ab_channel=kiiya
+
+## Dependencis
+[qn-target](https://github.com/BerkieBb/qb-target)
+[Fivem.Dks QB filer](https://github.com/NicoDK6400/QBCore--Oversat-til-dansk/tree/main/)
 
 ## Installation
 Alle billerne i images skal ind i qb-inventory/html/images
