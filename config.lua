@@ -260,5 +260,131 @@ Config.Items = {
             slot = 5,
             authorizedJobGrades = {0, 1, 2}
         },
+        [6] = {
+            name = "light0",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 6,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [7] = {
+            name = "light1",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 7,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [8] = {
+            name = "light2",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 8,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [9] = {
+            name = "light3",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 9,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [10] = {
+            name = "light4",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 10,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [11] = {
+            name = "light5",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 11,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [12] = {
+            name = "light6",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 12,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [13] = {
+            name = "light7",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 13,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [14] = {
+            name = "light8",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 14,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [15] = {
+            name = "light9",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 15,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [16] = {
+            name = "light10",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 16,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [17] = {
+            name = "light11",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 17,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [18] = {
+            name = "light12",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 18,
+            authorizedJobGrades = {0, 1, 2}
+        },
+        [19] = {
+            name = "light13",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 19,
+            authorizedJobGrades = {0, 1, 2}
+        },
     }
 }
